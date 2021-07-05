@@ -387,6 +387,18 @@ footer p{
         width: 700px;
         
     }
+    .icon{
+        font-size: 1.2rem;
+        margin: 0 5px;   
+    }
+    .social-media{
+        text-align: right;
+        
+        
+    }
+    footer p{
+        text-align: left;
+    }
     /* Large screen column width */
     .col-lg-1 {
         width: 8.33%;
